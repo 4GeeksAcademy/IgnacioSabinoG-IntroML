@@ -2,3 +2,5 @@ __pycache__
 .env
 .learn*.keras
 *.keras
+data/raw/dogs-vs-cats/train/dog/
+data/raw/dogs-vs-cats/train/cat/
