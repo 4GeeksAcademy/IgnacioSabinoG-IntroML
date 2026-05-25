@@ -4,4 +4,4 @@ __pycache__
 *.keras
 data/raw/dogs-vs-cats/train/dog/
 data/raw/dogs-vs-cats/train/cat/
-*.pkl
+*.pklsrc/mejor_modelo_vgg16.keras
